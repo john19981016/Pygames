@@ -1,4 +1,4 @@
-# Pygame 遊戲
+# Pygame 遊戲開發教學
 
 
 下樓梯 downstair.py [Youtube 教學](https://youtu.be/iBwJedNmHRs)
